@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="11664" started-at="2015-07-26T11:01:04Z" finished-at="2015-07-26T11:01:16Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="11664" started-at="2015-07-26T11:01:04Z" finished-at="2015-07-26T11:01:16Z">
+      <class name="com.capgemini.corejava.Facebooklogintest">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:com.capgemini.corejava.Facebooklogintest@1c4bfd2]" name="openbrowser" is-config="true" duration-ms="8038" started-at="2015-07-25T23:01:04Z" finished-at="2015-07-25T23:01:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="loginintofacebook()[pri:0, instance:com.capgemini.corejava.Facebooklogintest@1c4bfd2]" name="loginintofacebook" duration-ms="3563" started-at="2015-07-25T23:01:13Z" finished-at="2015-07-25T23:01:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginintofacebook -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.capgemini.corejava.Facebooklogintest@1c4bfd2]" name="teardown" is-config="true" duration-ms="1" started-at="2015-07-25T23:01:16Z" finished-at="2015-07-25T23:01:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.capgemini.corejava.Facebooklogintest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
