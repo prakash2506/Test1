@@ -10,7 +10,7 @@ public class Facebook {
 
 	public static final String facebook_login_username_id="email";
 	@FindBy(id=facebook_login_username_id)
-	private WebElement username;
+	private WebElement username1;
 	
 	public static final String facebook_login_password_id="pass";
 	@FindBy(id=facebook_login_password_id)
